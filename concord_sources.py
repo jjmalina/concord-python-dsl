@@ -6,6 +6,7 @@
     Express concord computations like Spark
 """
 
+__version__ = '0.1.0'
 
 import sys
 import json
