@@ -6,7 +6,7 @@ setup(
     url='https://github.com/jjmalina/concord-python-dsl',
     author='Jeremiah Malina',
     author_email='me@jerem.io',
-    description='',
+    description='A DSL for Concord that allows very simple Spark-like transformations.',
     long_description='',
     packages=find_packages(),
     zip_safe=False,
