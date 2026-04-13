@@ -12,6 +12,6 @@ setup(
     zip_safe=False,
     include_package_data=True,
     install_requires=['concord-py==0.3.1'],
-    tests_require=['pytest==2.8.2'],
+    tests_require=['pytest==9.0.3'],
     platforms='any'
 )
